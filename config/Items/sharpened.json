@@ -1,0 +1,10 @@
+
+{
+    "ID": 11,
+    "name": "sharpened",
+    "maxColl": 64,
+    "tip": 1,
+    "jtip": 0,
+    "itemType": "Item",
+    "PathImage": "sharpened.png"
+    }

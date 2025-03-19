@@ -1,0 +1,8 @@
+{
+    "nameCraft": "wood",
+    "TypeRecipt": "craft2",
+    "idSItem": 2,
+    "timeCraft": 1.5,
+    "coll": 4,
+    "ListIdItem": [1,0,1]
+   }

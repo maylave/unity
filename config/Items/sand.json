@@ -1,0 +1,13 @@
+{
+    "hardness": 0,
+    "time": 1,
+    "VID":0,
+    "instumentType":"shovels",
+    "ID": 10,
+    "name": "sand",
+    "maxColl": 64,
+    "tip": 1,
+    "jtip": 0,
+    "itemType": "Block",
+    "PathImage": "sand.png"
+}
