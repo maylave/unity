@@ -1,0 +1,10 @@
+{
+    "name": "dirt",
+    "maxStack": 64,
+    "itemType": "Block",
+    "imagePath": "dirt.png",
+    "VIDName": "dirt",
+    "hardness": 0,
+    "breakTime": 1.0,
+    "requiredTool": "shovel"
+  }
